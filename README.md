@@ -20,8 +20,11 @@
   - pcap with HTTP and DNS requests linked to Monopoly Money
 - Processes
   - A process entitled "Fake Monopoly Money" (screenshot provided for now but memory snapshot will be provided later)
+ 
+### Progress 5/6/24
+- https://drive.google.com/file/d/1V9YELxuMi0EAGThWP8hr70RbrG2GmxEb/view?usp=share_link (the .vdi file of investigators computer)
+- https://drive.google.com/file/d/1JSSz97lPNyuXXba4gUW7KuzV71p0wAw7/view?usp=sharing (the .sav memory dump file)
+- Both of the above files are too big to upload to Github
+- Scavenger Hunt pdf
+- Video link
 
-#### TODO
-- Take a copy of the suspects computer and put it on the investigator's computer including all evidence
-- Take a copy of the investigators's computer
-- Design Scavenger hunt
